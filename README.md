@@ -7,6 +7,12 @@ Atualmente estudo Front-End, mas meu objetivo é expandir meus conhecimentos em 
 
 Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções reais através do código.
 
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=Patrick-Kauai&show_icons=true&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Kauai&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
  ##  
 ### 🚀 Languages and Tools
 <div style="display: inline_block"><br>
