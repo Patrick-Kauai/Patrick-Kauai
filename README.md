@@ -9,32 +9,33 @@ Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=Patrick-Kauai&show_icons=true&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Kauai&layout=compact&langs_count=7&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-Kauai&show_icons=true&theme=dark&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Kauai&layout=compact&langs_count=5&theme=dark&locale=pt-br"/>
 </div>
  
  ##  
 ### 🚀 Languages and Tools
-<div style="display: inline_block"><br>
 
-  <!-- Front-end -->
-  <img align="center" alt="HTML5" height="40" width="40" 
+<div>
+<p align="left">
+   <!-- Front-end -->
+  <img alt="HTML5" height="40" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" 
+  <img alt="CSS3" height="40" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" 
+  <img alt="JavaScript" height="40" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
   <!-- Back-end -->
   <!-- Databases -->
-  <img align="center" alt="MySQL" height="40" width="40" 
+  <img alt="MySQL" height="40" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <!-- Docker -->
-  <img align="center" alt="Docker" height="40" width="40" 
+  <img alt="Docker" height="40" width="40" 
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</p>
 </div>
 
----
+##
 
 <!--### ☁️ Cloud
 <div style="display: inline_block">
