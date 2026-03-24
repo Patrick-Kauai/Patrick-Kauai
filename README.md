@@ -2,62 +2,51 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Meu nome é Patrick Kauai Duarte, tenho 24 anos e estou em transição da área de Suporte Técnico para o mundo do Desenvolvimento de Software.
+Olá! Meu nome é Patrick Kauai Duarte, tenho 24 anos e estou em transição da área de Suporte Técnico para o mundo do Desenvolvimento de Software.  
 Atualmente estudo Front-End, mas meu objetivo é expandir meus conhecimentos em Back-End e me tornar um Desenvolvedor Full Stack.
 
 Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em soluções reais através do código.
 
+---
+
+## 📊 Estatísticas
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-Kauai&show_icons=true&theme=dark&locale=pt-br"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Kauai&layout=compact&langs_count=5&theme=dark&locale=pt-br"/>
-</div>
- 
- ##  
-### 🚀 Languages and Tools
-
-<div>
-<p align="left">
-   <!-- Front-end -->
-  <img alt="HTML5" height="40" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="JavaScript" height="40" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <!-- Back-end -->
-  <!-- Databases -->
-  <img alt="MySQL" height="40" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <!-- Docker -->
-  <img alt="Docker" height="40" width="40" 
-       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</p>
-</div>
-
-##
-
-<!--### ☁️ Cloud
-<div style="display: inline_block">
-  <img align="center" alt="Vercel" height="40" width="40" 
-       src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-Kauai&show_icons=true&theme=dark&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Kauai&layout=compact&langs_count=5&theme=dark&locale=pt-br"/>
 </div>
 
 ---
 
-### 🧪 Testing Tools
-<div style="display: inline_block">
-  <img align="center" alt="Jest" height="40" width="40" 
-       src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png">
-  <img align="center" alt="Postman" height="40" width="40" 
-       src="https://www.svgrepo.com/download/354202/postman-icon.svg">
-  <img align="center" alt="Insomnia" height="40" width="40" 
-       src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
+## 🚀 Languages and Tools
+
+<!-- Front-end -->
+<div>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
 
---- -->
+ <!-- Back-end -->
+<div>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-### 📬 Contact
+ <!-- Databases -->
+<div>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
+<!-- Tools -->
+<div>
+  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
+
+---
+
+## 📬 Contact
+
 <div>
   <a href="mailto:patrickkauai08@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
