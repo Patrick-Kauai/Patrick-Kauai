@@ -12,8 +12,8 @@ Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em
 ## 📊 Estatísticas
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Patrick-Kauai&show_icons=true&theme=dark&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-Kauai&layout=compact&langs_count=5&theme=dark&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Patrick-Kauai&show_icons=true&theme=dark&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Patrick-Kauai&layout=compact&langs_count=5&theme=dark&locale=pt-br"/>
 </div>
 
 ---
@@ -22,25 +22,19 @@ Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em
 
 <!-- Front-end -->
 <div>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
+  <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+
 
  <!-- Back-end -->
-<div>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-
+  <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <!-- Databases -->
-<div>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+  <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 
 <!-- Tools -->
-<div>
-  <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 
 ---
