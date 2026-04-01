@@ -12,8 +12,8 @@ Sou apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em
 ## 📊 Estatísticas
 
 <div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Patrick-Kauai&show_icons=true&theme=dark&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Patrick-Kauai&layout=compact&langs_count=5&theme=dark&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Patrick-Kauai&show_icons=true&theme=dark&locale=pt-br"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Patrick-Kauai&layout=compact&langs_count=5&theme=dark&locale=pt-br"/>
 </div>
 
 ---
